@@ -12,11 +12,3 @@
 - ✔️ Sem dependências externas
 
 ## 🚀 Como Publicar (3 métodos)
-
-### 1. GitHub Pages (Recomendado)
-```bash
-1. Crie conta em github.com
-2. Novo repositório → nomeie como 'loja-virtual'
-3. Arraste seu index.html para o repositório
-4. Settings → Pages → Selecione branch 'main'
-5. Acesse: https://seuusuario.github.io/loja-virtual/
